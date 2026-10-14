@@ -1,0 +1,9 @@
+source_row_id,policy_id,risk_id,effective_date,change_type,product_line,sum_insured,province,postal_area,vehicle_year,vehicle_registration,vehicle_vin_placeholder,source_system
+STEND-00000159,STPOLICY00001347,RISK00001347,2022-10-31,Vehicle Update,Commercial,not recorded,Gauteng,SIM-1002,,,,EndorsementPortal
+STEND-00000532,STPOLICY00004267,RISK00004267,2023-08-18,Cover Adjustment,Motor,--,North West,SIM-8001,1993,SIM-REG-00004267,SIM-VIN-0000004267,AcquiredBook
+STEND-00001244,STPOLICY00010278,RISK00010278,2024-03-04,Endorsement,Commercial,not recorded,Western Cape,SIM-2001,,,,EndorsementPortal
+STEND-00002139,STPOLICY00018031,RISK00018031,2025-01-10,Sum Insured Change,Household,--,Gauteng,SIM-1002,,,,PolicyAdmin
+STEND-00002259,STPOLICY00019017,RISK00019017,2023-09-13,Address Move,Household,--,Mpumalanga,SIM-7001,,,,PolicyAdmin
+STEND-00002272,STPOLICY00019170,RISK00019170,2022-01-22,Address Move,Commercial,not recorded,Gauteng,SIM-1002,,,,EndorsementPortal
+STEND-00002686,STPOLICY00022485,RISK00022485,2022-12-28,Vehicle Update,Motor,not recorded,Northern Cape,SIM-9001,2019,SIM-REG-00022485,SIM-VIN-0000022485,EndorsementPortal
+STEND-00002834,STPOLICY00023625,RISK00023625,2024-01-01,Sum Insured Change,Commercial,not recorded,North West,SIM-8001,,,,PolicyAdmin
